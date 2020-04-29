@@ -1,4 +1,4 @@
-var add = require('./hello.js');
+var hello = require('./hello.js');
 var expect = require('chai').expect;
 
 describe('hello', function() {
